@@ -55,22 +55,5 @@ The business is facing challenges with transportation management and relies on a
 - **Scalability:**
   - Built to grow with your organization, adapting to evolving needs effortlessly.
 
-🚀 Feel free to check out the [Website](https://office-transportation-management-system.vercel.app/login) and provide feedback!
-
-### Server Link
-
-[Server](https://office-transportation-management-system-backend.vercel.app/)
-
-### API Documentation
-
-[API Documentation for Office Transport Management System](https://documenter.getpostman.com/view/28231443/2s9YeD7sMJ)
-
-### GitHub Backend Code Repository
-[Office Transport Management System Backend Repository](https://github.com/TanvirHasanPrince/office_transportation_management_system.git)
-
-### Video Demo
-[Watch the video demo](https://drive.google.com/file/d/1zW2U66255WPKVYYxwCDrjrrp7bgUU3JJ/view?usp=drive_link)
-
-
 
 
